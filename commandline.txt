@@ -1,0 +1,40 @@
+python keras_retinanet/bin/train.py --steps=1000 --epochs=120 --weights resnet50_csv_68_best.h5 --random-transform csv class_input_fold4_train.txt class_define.csv --val-annotations class_input_fold4_val.txt 
+
+%2 class train command line 
+python keras_retinanet/bin/train.py --steps=1000 --epochs=150 --weights resnet50_csv_29(best_59map_test).h5 --random-transform csv class_input_fold4_train_1_class.csv class_define.txt --val-annotations class_input_fold4_val_1_class.csv 
+
+
+python keras_retinanet/bin/train.py --steps=1000 --epochs=100 --snapshot .\\snapshots\\resnet50_csv_61.h5 --random-transform csv class_input_fold1_train_1_class.csv class_define.txt --val-annotations class_input_fold1_val_1_class.csv 
+
+
+%for testing:
+
+  
+
+python .\\keras_retinanet\\bin\\debug.py --random-transform csv 1_class_data_valid.csv class_define.txt 
+
+python .\\keras_retinanet\\bin\\convert_model.py .\\snapshots\\resnet50_csv_86.h5 .\\inference\\model_test.h5 
+
+
+tensorboard --logdir foo:.\\logs\\
+
+python keras_retinanet/bin/train.py --steps=2000 --epochs=100 --random-transform csv 5_class_data.csv class_define.csv --val-annotations 5_class_data_valid.csv
+
+python .\\keras_retinanet\\bin\\evaluate.py --score-threshold=0.5 --iou-threshold=0.5 --max-detections=800 csv class_input_fold2_train.txt class_define.csv  .\\inference\\model_test.h5
+
+python .\\keras_retinanet\\bin\\evaluate.py --score-threshold=0.5 --convert-model --iou-threshold=0.5 --max-detections=800 csv class_input_fold3_test.txt class_define.csv  .\\snapshots\\resnet50_csv_58.h5
+
+%2 class evaluation command line 
+
+python .\\keras_retinanet\\bin\\evaluate.py --score-threshold=0.5 --iou-threshold=0.5 --max-detections=800 csv class_input_fold1_test_1_class.csv class_define.txt  .\\inference\\model_test.h5
+
+
+python .\\keras_retinanet\\bin\\evaluate.py --save-path .\\images --score-threshold=0.5 --convert-model --iou-threshold=0.5 --max-detections=800 csv class_input_fold0_test.txt class_define.csv  fold0.h5
+
+python .\\keras_retinanet\\bin\\evaluate.py --save-path .\\images --score-threshold=0.5 --convert-model --iou-threshold=0.5 --max-detections=800 csv class_input_fold1_test.txt class_define.csv  fold1.h5
+
+python .\\keras_retinanet\\bin\\evaluate.py --save-path .\\images  --score-threshold=0.5 --convert-model --iou-threshold=0.5 --max-detections=800 csv class_input_fold2_test.txt class_define.csv  fold2.h5
+
+python .\\keras_retinanet\\bin\\evaluate.py --save-path .\\images  --score-threshold=0.5 --convert-model --iou-threshold=0.5 --max-detections=800 csv class_input_fold3_test.txt class_define.csv  fold3.h5
+
+python .\\keras_retinanet\\bin\\evaluate.py --save-path .\\images  --score-threshold=0.5 --convert-model --iou-threshold=0.5 --max-detections=800 csv class_input_fold4_test.txt class_define.csv  fold4.h5

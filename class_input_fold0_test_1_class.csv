@@ -1,0 +1,199 @@
+train_images\HP\Validation set\Colonoscopy 2643 Photo (1).BMP,310,209,503,444,disease
+train_images\HP\Validation set\Colonoscopy 2453 Photo (1).BMP,242,49,707,575,disease
+train_images\HP\Validation set\Colonoscopy 2453 Photo (2).BMP,367,1,702,547,disease
+train_images\HP\MS TYPE I DEIDENTIFIED\Top pics\Colonoscopy 2326 Photo (1).jpg,200,91,624,435,disease
+train_images\HP\Added in July\Patient 211 Colonoscopy July 2017 HP Photo (1).BMP,271,138,539,438,disease
+train_images\HP\Added in July\Patient 211 Colonoscopy July 2017 HP Photo (2).BMP,155,55,658,527,disease
+train_images\HP\Added in July\Patient 211 Colonoscopy July 2017 HP Photo (3).BMP,170,99,610,541,disease
+train_images\HP\Added in July\Patient 211 Colonoscopy July 2017 HP Photo (4).BMP,315,250,480,456,disease
+train_images\HP\Added in July\Patient 211 Colonoscopy July 2017 HP Photo (5).BMP,249,96,493,533,disease
+train_images\HP\Added in July\Patient 211 Colonoscopy July 2017 HP Photo (6).BMP,190,38,414,545,disease
+train_images\HP\Added in July\Patient 211 Colonoscopy July 2017 HP Photo (7).BMP,315,19,521,574,disease
+train_images\HP\MS TYPE I DEIDENTIFIED\Patient 106 Colonoscopy Feb 2017 Photo (1).BMP,313,231,515,394,disease
+train_images\HP\MS TYPE I DEIDENTIFIED\Patient 106 Colonoscopy Feb 2017 Photo (4).BMP,273,276,488,466,disease
+train_images\HP\MS TYPE I DEIDENTIFIED\Patient 106 Colonoscopy Feb 2017 Photo (5).BMP,207,157,546,537,disease
+train_images\HP\MS TYPE I DEIDENTIFIED\Top pics\Colonoscopy 2571 Photo (1).jpg,371,38,589,323,disease
+train_images\HP\Added in July\Patient 172 Colonoscopy May 2017 HP Photo (1).BMP,246,161,510,366,disease
+train_images\HP\Added in July\Patient 172 Colonoscopy May 2017 HP Photo (2).BMP,213,153,520,454,disease
+train_images\HP\Added in July\Patient 172 Colonoscopy May 2017 HP Photo (3).BMP,174,91,586,403,disease
+train_images\HP\MS TYPE I DEIDENTIFIED\Top pics\Colonoscopy 2584 Photo (1).jpg,344,206,582,427,disease
+train_images\HP\MS TYPE I DEIDENTIFIED\Top pics\Colonoscopy 2584 Photo (2).jpg,325,139,573,429,disease
+train_images\Invasive cancer\Validation set\Colonoscopy 2673 cancer Photo (1).BMP,288,103,651,491,disease
+train_images\Invasive cancer\Validation set\Colonoscopy 2673 cancer Photo (2).BMP,143,184,516,558,disease
+train_images\Invasive cancer\Validation set\Colonoscopy 2673 cancer Photo (3).BMP,382,87,657,450,disease
+train_images\Invasive cancer\Validation set\Colonoscopy 2673 cancer Photo (4).BMP,301,1,713,500,disease
+train_images\Invasive cancer\Validation set\Colonoscopy 2673 cancer Photo (5).BMP,32,1,736,428,disease
+train_images\Invasive cancer\Validation set\Colonoscopy 2429 cancer Photo (1).BMP,210,101,521,205,disease
+train_images\Invasive cancer\Validation set\Colonoscopy 1735 cancer Photo (1).BMP,438,165,631,357,disease
+train_images\Invasive cancer\Validation set\Colonoscopy 1735 cancer Photo (2).BMP,318,167,698,565,disease
+train_images\Invasive cancer\Validation set\Colonoscopy 1735 cancer Photo (3).BMP,319,165,650,513,disease
+train_images\Invasive cancer\Validation set\Colonoscopy 1948 Photo (1).BMP,172,53,569,544,disease
+train_images\Invasive cancer\MS TYPE IIIB DEIDENTIFIED\Colonoscopy 3534 Photo (1).BMP,135,85,481,474,disease
+train_images\Invasive cancer\MS TYPE IIIB DEIDENTIFIED\Colonoscopy 3534 Photo (5).BMP,156,176,638,551,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Top pics\Colonoscopy 3657 Photo (10).BMP,116,1,550,575,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Top pics\Colonoscopy 3657 Photo (11).BMP,269,1,656,575,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Top pics\Colonoscopy 3657 Photo (12).BMP,311,1,700,575,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Top pics\Colonoscopy 3657 Photo (13).BMP,365,79,603,526,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Top pics\Colonoscopy 3657 Photo (3).BMP,244,181,507,362,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Top pics\Colonoscopy 3657 Photo (4).BMP,244,114,599,531,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Top pics\Colonoscopy 3657 Photo (5).BMP,189,2,617,414,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Top pics\Colonoscopy 3657 Photo (6).BMP,47,1,603,575,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Top pics\Colonoscopy 3657 Photo (7).BMP,43,1,590,563,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Top pics\Colonoscopy 3657 Photo (8).BMP,75,1,493,467,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Top pics\Colonoscopy 3657 Photo (9).BMP,40,1,628,575,disease
+train_images\SSAP\Added in July\Patient 164 Colonoscopy  May 2017 Photo (1).BMP,102,1,689,575,disease
+train_images\SSAP\Added in July\Patient 164 Colonoscopy  May 2017 Photo (10).BMP,302,41,580,474,disease
+train_images\SSAP\Added in July\Patient 164 Colonoscopy  May 2017 Photo (2).BMP,29,1,729,575,disease
+train_images\SSAP\Added in July\Patient 164 Colonoscopy  May 2017 Photo (3).BMP,26,1,734,575,disease
+train_images\SSAP\Added in July\Patient 164 Colonoscopy  May 2017 Photo (4).BMP,26,1,731,575,disease
+train_images\SSAP\Added in July\Patient 164 Colonoscopy  May 2017 Photo (5).BMP,46,1,622,575,disease
+train_images\SSAP\Added in July\Patient 164 Colonoscopy  May 2017 Photo (6).BMP,33,1,710,565,disease
+train_images\SSAP\Added in July\Patient 164 Colonoscopy  May 2017 Photo (7).BMP,240,167,576,555,disease
+train_images\SSAP\Added in July\Patient 164 Colonoscopy  May 2017 Photo (8).BMP,35,1,726,575,disease
+train_images\SSAP\Added in July\Patient 164 Colonoscopy  May 2017 Photo (9).BMP,234,15,717,575,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Patient 87 Colonoscopy Jan 2017 Photo (1).BMP,192,237,392,397,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Patient 87 Colonoscopy Jan 2017 Photo (2).BMP,265,246,457,382,disease
+train_images\SSAP\Validation set\Colonoscopy 768 Photo (1).BMP,169,152,485,451,disease
+train_images\SSAP\Validation set\Colonoscopy 768 Photo (2).BMP,208,63,615,371,disease
+train_images\SSAP\Validation set\Colonoscopy 768 Photo (3).BMP,220,186,483,430,disease
+train_images\SSAP\Validation set\Colonoscopy 768 Photo (4).BMP,240,38,647,435,disease
+train_images\SSAP\Validation set\Colonoscopy 768 Photo (5).BMP,280,43,685,463,disease
+train_images\SSAP\Validation set\Colonoscopy 768 Photo (6).BMP,272,63,521,316,disease
+train_images\SSAP\Validation set\Colonoscopy 768 Photo (7).BMP,222,25,628,445,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Colonoscopy 3657 Photo (10).BMP,116,1,550,575,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Colonoscopy 3657 Photo (11).BMP,269,1,656,575,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Colonoscopy 3657 Photo (12).BMP,311,1,700,575,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Colonoscopy 3657 Photo (13).BMP,365,79,603,526,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Colonoscopy 3657 Photo (14).BMP,152,35,575,392,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Colonoscopy 3657 Photo (15).BMP,347,93,585,514,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Colonoscopy 3657 Photo (16).BMP,389,297,466,467,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Colonoscopy 3657 Photo (17).BMP,275,172,472,437,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Colonoscopy 3657 Photo (19).BMP,41,152,612,573,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Colonoscopy 3657 Photo (20).BMP,33,83,726,575,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Colonoscopy 3657 Photo (21).BMP,62,7,733,516,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Colonoscopy 3657 Photo (22).BMP,70,36,721,459,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Colonoscopy 3657 Photo (23).BMP,38,3,671,439,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Colonoscopy 3657 Photo (24).BMP,175,1,660,494,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Colonoscopy 3657 Photo (7).BMP,43,1,590,563,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Colonoscopy 3657 Photo (8).BMP,75,1,493,467,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Colonoscopy 3657 Photo (9).BMP,40,1,628,575,disease
+train_images\SSAP\Added in July\Patient 84 Colonoscopy March 2017 SSA Photo (1).BMP,315,140,700,572,disease
+train_images\SSAP\Added in July\Patient 84 Colonoscopy March 2017 SSA Photo (2).BMP,328,150,649,434,disease
+train_images\SSAP\Added in July\Patient 84 Colonoscopy March 2017 SSA Photo (3).BMP,105,159,713,567,disease
+train_images\SSAP\MS TYPE IIo DEIDENTIFIED\Colonoscopy 2607 Photo (1).jpg,115,24,615,515,disease
+train_images\SSAP\Validation set\Colonoscopy 218 Photo (1).BMP,512,33,682,477,disease
+train_images\SSAP\Added on 11-05-2017\Colonoscopy 3809 Photo (1).BMP,169,252,616,544,disease
+train_images\SSAP\Added on 11-05-2017\Colonoscopy 3809 Photo (11).BMP,182,188,518,418,disease
+train_images\SSAP\Added on 11-05-2017\Colonoscopy 3809 Photo (12).BMP,292,212,599,453,disease
+train_images\SSAP\Added on 11-05-2017\Colonoscopy 3809 Photo (13).BMP,179,301,535,554,disease
+train_images\SSAP\Added on 11-05-2017\Colonoscopy 3809 Photo (14).BMP,36,1,708,575,disease
+train_images\SSAP\Added on 11-05-2017\Colonoscopy 3809 Photo (15).BMP,39,1,724,575,disease
+train_images\SSAP\Added on 11-05-2017\Colonoscopy 3809 Photo (16).BMP,30,1,725,575,disease
+train_images\SSAP\Added on 11-05-2017\Colonoscopy 3809 Photo (17).BMP,283,174,504,362,disease
+train_images\SSAP\Added on 11-05-2017\Colonoscopy 3809 Photo (18).BMP,374,101,663,575,disease
+train_images\SSAP\Added on 11-05-2017\Colonoscopy 3809 Photo (19).BMP,282,156,575,415,disease
+train_images\SSAP\Added on 11-05-2017\Colonoscopy 3809 Photo (2).BMP,33,139,710,575,disease
+train_images\SSAP\Added on 11-05-2017\Colonoscopy 3809 Photo (23).BMP,184,193,517,413,disease
+train_images\SSAP\Added on 11-05-2017\Colonoscopy 3809 Photo (24).BMP,310,214,590,456,disease
+train_images\SSAP\Added on 11-05-2017\Colonoscopy 3809 Photo (3).BMP,36,116,705,571,disease
+train_images\SSAP\Added on 11-05-2017\Colonoscopy 3809 Photo (4).BMP,51,7,712,540,disease
+train_images\SSAP\Added on 11-05-2017\Colonoscopy 3809 Photo (5).BMP,270,176,505,366,disease
+train_images\SSAP\Added on 11-05-2017\Colonoscopy 3809 Photo (6).BMP,365,106,657,575,disease
+train_images\SSAP\Added on 11-05-2017\Colonoscopy 3809 Photo (7).BMP,298,162,571,406,disease
+train_images\TA\Validation set\Colonoscopy 394 Photo (1).BMP,423,293,451,322,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Patient 108 Colonoscopy Feb 2017 Photo (10).BMP,242,1,506,548,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Patient 108 Colonoscopy Feb 2017 Photo (11).BMP,83,1,567,575,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Patient 108 Colonoscopy Feb 2017 Photo (12).BMP,186,1,509,534,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Patient 108 Colonoscopy Feb 2017 Photo (2).BMP,153,77,611,528,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Patient 108 Colonoscopy Feb 2017 Photo (3).BMP,271,103,599,430,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Patient 108 Colonoscopy Feb 2017 Photo (4).BMP,113,111,627,575,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Patient 108 Colonoscopy Feb 2017 Photo (5).BMP,61,1,700,575,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Patient 108 Colonoscopy Feb 2017 Photo (6).BMP,162,134,574,575,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Patient 108 Colonoscopy Feb 2017 Photo (7).BMP,229,1,531,575,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Patient 108 Colonoscopy Feb 2017 Photo (8).BMP,292,44,535,526,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Patient 108 Colonoscopy Feb 2017 Photo (9).BMP,294,45,598,575,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Colonoscopy 1408 Photo (2).jpg,381,215,648,548,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Colonoscopy 1546 Photo (1).jpg,226,274,539,540,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Patient 28 Colonoscopy Feb 2017 Photo (13).BMP,102,8,450,387,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Patient 28 Colonoscopy Feb 2017 Photo (4).BMP,197,42,584,485,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Patient 28 Colonoscopy Feb 2017 Photo (5).BMP,188,76,545,500,disease
+train_images\TA\Added in July\Patient 137 Colonoscopy March 2017 Photo.BMP,404,272,539,480,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Colonoscopy 3536 Photo (1).jpg,143,92,447,523,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Colonoscopy 3536 Photo (2).jpg,27,1,736,575,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Colonoscopy 1971 Photo (3).BMP,306,119,599,458,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Colonoscopy 2026 Photo (1).jpg,344,164,508,318,disease
+train_images\TA\Added in July\Patient 120 Colonoscopy February 2017 Photo (1).BMP,192,335,413,541,disease
+train_images\TA\Added in July\Patient 120 Colonoscopy February 2017 Photo (2).BMP,249,315,467,484,disease
+train_images\TA\Added in July\Patient 120 Colonoscopy February 2017 Photo (3).BMP,215,246,410,482,disease
+train_images\TA\Added in July\Patient 120 Colonoscopy February 2017 Photo (4).BMP,123,104,364,391,disease
+train_images\TA\Added in July\Patient 120 Colonoscopy February 2017 Photo (5).BMP,305,60,554,370,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Colonoscopy 2260 Photo (1).jpg,137,202,474,453,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Colonoscopy 2626 Photo (1).BMP,285,328,563,523,disease
+train_images\TA\Added on 11-05-2017\Patient 123 Colonoscopy Feb 2017 Photo (1).BMP,352,107,655,507,disease
+train_images\TA\Added on 11-05-2017\Patient 123 Colonoscopy Feb 2017 Photo (2).BMP,190,168,488,505,disease
+train_images\TA\Added on 11-05-2017\Patient 123 Colonoscopy Feb 2017 Photo (3).BMP,95,8,526,561,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Colonoscopy 2259 Photo (1).jpg,206,84,503,458,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Patient 93 Colonoscopy Jan 2017 Photo (2).BMP,300,127,668,450,disease
+train_images\TA\Validation set\Colonoscopy 468 Photo (1).BMP,163,3,678,534,disease
+train_images\TA\Validation set\Colonoscopy 468 Photo (2).BMP,164,227,567,554,disease
+train_images\TA\Validation set\Colonoscopy 468 Photo (3).BMP,172,270,628,491,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Patient 100 Colonoscopy Jan 2017 Photo (1).BMP,236,174,460,461,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Patient 100 Colonoscopy Jan 2017 Photo (2).BMP,108,9,520,281,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Patient 100 Colonoscopy Jan 2017 Photo (5).BMP,218,125,510,426,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Patient 100 Colonoscopy Jan 2017 Photo (6).BMP,170,122,600,468,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Patient 100 Colonoscopy Jan 2017 Photo (7).BMP,152,70,392,454,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Colonoscopy 1745 Photo (1).jpg,282,1,599,371,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Colonoscopy 1745 Photo (2).jpg,313,258,616,451,disease
+train_images\TA\Added in July\Patient 163 Colonoscopy May 2017 Photo (1).BMP,208,33,548,480,disease
+train_images\TA\Added in July\Patient 163 Colonoscopy May 2017 Photo (2).BMP,224,1,676,549,disease
+train_images\TA\Added in July\Patient 163 Colonoscopy May 2017 Photo (3).BMP,280,96,534,420,disease
+train_images\TA\MS TYPE II DEIDENTIFIED\Top pics\Colonoscopy 1478 Photo (1).jpg,274,143,566,471,disease
+train_images\TA\Validation set\Colonoscopy 376 Photo (1).BMP,157,237,611,569,disease
+train_images\TA\Validation set\Colonoscopy 376 Photo (2).BMP,249,222,666,521,disease
+train_images\TA\Added in July\Patient 139 Colonoscopy March 2017 Photo (1).BMP,52,249,679,558,disease
+train_images\TA\Added in July\Patient 139 Colonoscopy March 2017 Photo (2).BMP,51,119,680,575,disease
+train_images\TA\Added in July\Patient 139 Colonoscopy March 2017 Photo (3).BMP,266,164,586,477,disease
+train_images\TA\Added in July\Patient 139 Colonoscopy March 2017 Photo (4).BMP,284,189,599,448,disease
+train_images\TA\Added in July\Patient 139 Colonoscopy March 2017 Photo (5).BMP,186,109,570,413,disease
+train_images\TA\Added in July\Patient 139 Colonoscopy March 2017 Photo (6).BMP,192,215,621,484,disease
+train_images\TA\Added in July\Patient 139 Colonoscopy March 2017 Photo (7).BMP,154,101,727,504,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (1).BMP,30,1,738,575,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (10).BMP,28,1,740,575,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (11).BMP,29,1,738,575,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (12).BMP,27,1,739,575,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (13).BMP,198,156,490,425,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (14).BMP,258,76,679,542,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (15).BMP,364,33,668,497,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (16).BMP,113,1,554,575,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (17).BMP,198,1,697,564,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (18).BMP,113,1,727,575,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (19).BMP,41,1,737,575,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (2).BMP,35,1,680,575,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (3).BMP,87,59,678,502,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (4).BMP,85,50,689,502,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (5).BMP,93,1,572,575,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (6).BMP,240,50,580,575,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (7).BMP,62,1,734,575,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (8).BMP,39,1,737,575,disease
+train_images\TA\Added in July\Patient 192 Colonoscopy June 2017 Photo (9).BMP,72,1,734,562,disease
+train_images\TVA_VA or superficial cancer\Validation set\Colonoscopy 1179 Photo (1).BMP,123,7,614,558,disease
+train_images\TVA_VA or superficial cancer\Validation set\Colonoscopy 1179 Photo (2).BMP,186,108,586,575,disease
+train_images\TVA_VA or superficial cancer\MS IIIA DEIDENTIFIED\Top pics\Patient 107 Colonoscopy Feb 2017 Photo (10).BMP,54,32,499,538,disease
+train_images\TVA_VA or superficial cancer\MS IIIA DEIDENTIFIED\Top pics\Patient 107 Colonoscopy Feb 2017 Photo (11).BMP,107,47,527,517,disease
+train_images\TVA_VA or superficial cancer\MS IIIA DEIDENTIFIED\Top pics\Patient 107 Colonoscopy Feb 2017 Photo (12).BMP,263,99,624,468,disease
+train_images\TVA_VA or superficial cancer\MS IIIA DEIDENTIFIED\Top pics\Patient 107 Colonoscopy Feb 2017 Photo (2).BMP,254,49,701,575,disease
+train_images\TVA_VA or superficial cancer\MS IIIA DEIDENTIFIED\Top pics\Patient 107 Colonoscopy Feb 2017 Photo (3).BMP,35,1,732,575,disease
+train_images\TVA_VA or superficial cancer\MS IIIA DEIDENTIFIED\Top pics\Patient 107 Colonoscopy Feb 2017 Photo (4).BMP,109,39,730,575,disease
+train_images\TVA_VA or superficial cancer\MS IIIA DEIDENTIFIED\Top pics\Patient 107 Colonoscopy Feb 2017 Photo (5).BMP,67,123,675,575,disease
+train_images\TVA_VA or superficial cancer\MS IIIA DEIDENTIFIED\Top pics\Patient 107 Colonoscopy Feb 2017 Photo (6).BMP,76,1,733,575,disease
+train_images\TVA_VA or superficial cancer\MS IIIA DEIDENTIFIED\Top pics\Patient 107 Colonoscopy Feb 2017 Photo (7).BMP,121,10,726,575,disease
+train_images\TVA_VA or superficial cancer\MS IIIA DEIDENTIFIED\Top pics\Patient 107 Colonoscopy Feb 2017 Photo (8).BMP,202,159,495,575,disease
+train_images\TVA_VA or superficial cancer\MS IIIA DEIDENTIFIED\Top pics\Patient 107 Colonoscopy Feb 2017 Photo (9).BMP,122,1,578,545,disease
+train_images\TVA_VA or superficial cancer\Validation set\Colonoscopy 1223 Photo (1).BMP,202,251,512,558,disease
+train_images\TVA_VA or superficial cancer\Validation set\Colonoscopy 1223 Photo (2).BMP,153,236,565,461,disease
+train_images\TVA_VA or superficial cancer\Validation set\Colonoscopy 1735 TVA Photo (1).BMP,166,166,718,575,disease
+train_images\TVA_VA or superficial cancer\Validation set\Colonoscopy 1735 TVA Photo (2).BMP,279,343,586,560,disease
+train_images\TVA_VA or superficial cancer\Validation set\Colonoscopy 1735 TVA Photo (3).BMP,216,281,586,567,disease
+train_images\TVA_VA or superficial cancer\Validation set\Colonoscopy 1735 TVA Photo (4).BMP,235,284,534,557,disease
+train_images\TVA_VA or superficial cancer\Validation set\Colonoscopy 1735 TVA Photo (5).BMP,265,338,670,554,disease
+train_images\TVA_VA or superficial cancer\Validation set\Colonoscopy 1735 TVA Photo (6).BMP,239,395,648,555,disease

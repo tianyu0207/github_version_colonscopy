@@ -1,0 +1,216 @@
+Fold 0:
+score threshold: 0.5
+precision for class 0 is :0.7162356802339503
+recall for class 0 is :0.4148148148148149
+precision for class 1 is :0.9563890040573645
+recall for class 1 is :0.3924394319131161
+precision for class 2 is :0.7431143827714544
+recall for class 2 is :0.30634920634920637
+precision for class 3 is :0.6299823014355886
+recall for class 3 is :0.24929971988795513
+precision for class 4 is :0.3444444444444445
+recall for class 4 is :0.1111111111111111
+total sample: 199.0
+0 0.5053
+1 0.7094
+2 0.4284
+3 0.2833
+4 0.0833
+mAP: 0.4020
+Accuracy: 0.5778894472361809
+
+Fold 1:
+score threshold: 0.5
+precision for class 0 is :0.956388888888889
+recall for class 0 is :0.255
+precision for class 1 is :0.9130399797295508
+recall for class 1 is :0.2804381846635368
+precision for class 2 is :0.809127984107284
+recall for class 2 is :0.4553700267985982
+precision for class 3 is :0.3417772722919782
+recall for class 3 is :0.4444444444444444
+precision for class 4 is :0.43386844636844635
+recall for class 4 is :0.07666666666666666
+total sample: 185.0
+Accuracy: 0.4918918918918919
+0 0.3944
+1 0.4402
+2 0.6248
+3 0.3750
+4 0.0800
+mAP: 0.3829
+
+Fold2:
+score threshold: 0.5
+precision for class 0 is :0.9551882460973371
+recall for class 0 is :0.264069264069264
+precision for class 1 is :0.8302778723972342
+recall for class 1 is :0.3050130208333333
+precision for class 2 is :0.6696913471862598
+recall for class 2 is :0.3425641025641026
+precision for class 3 is :0.43714681548554335
+recall for class 3 is :0.3465909090909091
+precision for class 4 is :0.8829931972789116
+recall for class 4 is :0.2738095238095238
+total sample: 173.0
+Accuracy: 0.5664739884393064
+0 0.4199
+1 0.4627
+2 0.4773
+3 0.3451
+4 0.3929
+mAP: 0.4196
+
+Fold 3:
+score threshold: 0.5
+precision for class 0 is :0.36977445631291783
+recall for class 0 is :0.09790209790209789
+precision for class 1 is :0.8156029253184857
+recall for class 1 is :0.3377181887174297
+precision for class 2 is :0.5939717649409404
+recall for class 2 is :0.28484848484848485
+precision for class 3 is :0.7502580752580752
+recall for class 3 is :0.2225
+precision for class 4 is :0.017355371900826446
+recall for class 4 is :0.012121212121212121
+total sample: 186.0
+Accuracy: 0.41935483870967744
+0 0.0844
+1 0.4991
+2 0.3121
+3 0.2801
+4 0.0067
+mAP: 0.2365
+
+Fold 4:
+score threshold: 0.5
+precision for class 0 is :0.4160643414319885
+recall for class 0 is :0.20833333333333334
+precision for class 1 is :0.7645084214795236
+recall for class 1 is :0.2772522522522522
+precision for class 2 is :0.6670716142379611
+recall for class 2 is :0.3293993677555322
+precision for class 3 is :0.6425044091710759
+recall for class 3 is :0.13227513227513227
+precision for class 4 is :0.6244047619047619
+recall for class 4 is :0.16964285714285715
+total sample: 194.0
+Accuracy: 0.4329896907216495
+0 0.1733
+1 0.3825
+2 0.4025
+3 0.1510
+4 0.2143
+mAP: 0.2647
+
+
+
+What if we don't take the max score bbox:
+
+Fold 0:
+precision for class 0 is :0.6436356991309536
+recall for class 0 is :0.4455882352941177
+precision for class 1 is :0.937079776166081
+recall for class 1 is :0.44559032716927455
+precision for class 2 is :0.6844832751415398
+recall for class 2 is :0.35627177700348434
+precision for class 3 is :0.6291690184436756
+recall for class 3 is :0.31065759637188206
+precision for class 4 is :0.28606701940035273
+recall for class 4 is :0.12037037037037036
+total sample: 199.0
+Accuracy: 0.6432160804020101
+0 0.5232
+1 0.7520
+2 0.4514
+3 0.4024
+4 0.0750
+mAP: 0.4408
+
+FOld 1:
+score threshold: 0.5
+precision for class 0 is :0.956388888888889
+recall for class 0 is :0.255
+precision for class 1 is :0.9065463050613829
+recall for class 1 is :0.29577464788732394
+precision for class 2 is :0.7648938025760474
+recall for class 2 is :0.4936333507762078
+precision for class 3 is :0.3063230189690224
+recall for class 3 is :0.45454545454545453
+precision for class 4 is :0.39308033236604667
+recall for class 4 is :0.07714285714285714
+total sample: 185.0
+Accuracy: 0.5081081081081081
+0 0.3944
+1 0.4638
+2 0.6308
+3 0.3750
+4 0.0800
+mAP: 0.3888
+
+
+Fold 2:
+score threshold: 0.5
+precision for class 0 is :0.8886887186887187
+recall for class 0 is :0.3142857142857142
+precision for class 1 is :0.8170951860927245
+recall for class 1 is :0.328125
+precision for class 2 is :0.6613730226491269
+recall for class 2 is :0.3630952380952381
+precision for class 3 is :0.44347590946616383
+recall for class 3 is :0.3925
+precision for class 4 is :0.8020723104056438
+recall for class 4 is :0.2962962962962963
+total sample: 173.0
+Accuracy: 0.5953757225433526
+0 0.4539
+1 0.4955
+2 0.4727
+3 0.3779
+4 0.3854
+mAP: 0.4371
+
+
+Fold 3:
+score threshold: 0.5
+precision for class 0 is :0.3585828531330261
+recall for class 0 is :0.12566844919786097
+precision for class 1 is :0.8084534511427078
+recall for class 1 is :0.3507462686567164
+precision for class 2 is :0.5777258266214369
+recall for class 2 is :0.3104984683932053
+precision for class 3 is :0.7376059800554667
+recall for class 3 is :0.25894736842105265
+precision for class 4 is :0.039340147032454725
+recall for class 4 is :0.03076923076923077
+total sample: 186.0
+Accuracy: 0.46236559139784944
+0 0.1009
+1 0.5096
+2 0.3368
+3 0.3344
+4 0.0222
+mAP: 0.2608
+
+Fold 4:
+score threshold: 0.5
+precision for class 0 is :0.41037895992036855
+recall for class 0 is :0.22249999999999998
+precision for class 1 is :0.7440007997427949
+recall for class 1 is :0.29850746268656714
+precision for class 2 is :0.6461876420836317
+recall for class 2 is :0.3465384615384616
+precision for class 3 is :0.6033713760986489
+recall for class 3 is :0.1471861471861472
+precision for class 4 is :0.5720017636684304
+recall for class 4 is :0.16666666666666666
+total sample: 194.0
+Accuracy: 0.4536082474226804
+0 0.1733
+1 0.3916
+2 0.4151
+3 0.1727
+4 0.2063
+mAP: 0.2718
+
+
